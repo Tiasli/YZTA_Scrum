@@ -7,10 +7,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Berkin62232001/passport-visa-checker.git"
+    "url": "git+https://github.com/Tiasli/YZTA_Scrum.git"
   },
   "bugs": {
-    "url": "https://github.com/Berkin62232001/passport-visa-checker/issues"
+    "url": "https://github.com/Tiasli/YZTA_Scrum/issues"
   },
   "scripts": {
     "dev": "serve . --listen tcp://127.0.0.1:3000 --no-clipboard",

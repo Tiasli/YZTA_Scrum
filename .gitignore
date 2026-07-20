@@ -12,7 +12,7 @@ Desktop.ini
 *.sublime-project
 *.sublime-workspace
 
-# Claude Code local config
+# Local tooling config
 .claude/
 
 # Node.js
