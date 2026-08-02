@@ -1,7 +1,7 @@
 # YZTA_Scrum
 
 ## Takım İsmi
-51. Takım
+51. Bölge
 
 ## Takım Rolleri
 * **Scrum Master:** Aslı Tiryaki
