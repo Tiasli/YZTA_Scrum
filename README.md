@@ -58,8 +58,8 @@ Sistemin en temel önceliği doğru ve güvenilir bilgi sunmaktır.
 
 ## Takım (51. Takım)
 
-- **Aslı** – Sunum & Ürün Tanıtımı
-- **Berkin** – Ürün Mimari & Teknik Geliştirme
-- **Melisa** – Takım Üyesi
+- **Aslı** 
+- **Berkin** 
+- **Melisa** 
 
 ---
